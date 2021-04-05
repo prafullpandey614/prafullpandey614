@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prafullpandey614
+- 👋 Hi, I’m Prafull Kumar Pandey
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Btech From Bundelkhand University
 - 💞️ I’m looking to collaborate on Projects by Python
