@@ -13,14 +13,14 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on Projects React.js 
 - 📫 contact me : prafullpandey2801@gmail.com
 
-[![twitter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-v8Lr08f7l2EPuwR9-9_-SaC20zKpbHhX2UbWAgN7Q&s)](https://twitter.com/prafullpandeybr)
+<!-- [![twitter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-v8Lr08f7l2EPuwR9-9_-SaC20zKpbHhX2UbWAgN7Q&s)](https://twitter.com/prafullpandeybr)
 [![linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RYeN56EvozwyyxYGDw4dTu-pbUZyNxnF93zSLUcOlQ&s)](https://www.linkedin.com/in/prafull-kumar-pandey-670a91204/)
-[![Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sbjg5IFhXNswHd6qC09z3pAMDZmFhDXhoCDqv9FdiQ&s)](https://www.instagram.com/prafullpandey500/)
+[![Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sbjg5IFhXNswHd6qC09z3pAMDZmFhDXhoCDqv9FdiQ&s)](https://www.instagram.com/prafullpandey500/) -->
 
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/prafullpandeybr)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/_whoisprafullpandey/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/prafull-kumar-pandey-670a91204/)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:aryanitinpatil@gmail.com)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:prafullpandey2801@gmail.com)
 <p><img src="https://github-profile-trophy.vercel.app/?username=prafullpandey614&row=1&margin-w=15&margin-h=15&theme=darkhub" alt="Aryan" /></p>
 <hr>
 
