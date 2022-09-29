@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hi, I’m Prafull Kumar Pandey 
-- ![Profile views](https://gpvc.arturio.dev/prafullpandey614)
 - My Portfolio https://prafullpandey614.github.io/prafullpandey/#social-media
 - 👀 I’m interested in Web Development and Competitve Programming 
 - 🌱 I’m currently Pursuing Btech From Bundelkhand University
@@ -18,6 +17,10 @@ You can click the Preview link to take a look at your changes.
 [![linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RYeN56EvozwyyxYGDw4dTu-pbUZyNxnF93zSLUcOlQ&s)](https://www.linkedin.com/in/prafull-kumar-pandey-670a91204/)
 [![Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sbjg5IFhXNswHd6qC09z3pAMDZmFhDXhoCDqv9FdiQ&s)](https://www.instagram.com/prafullpandey500/)
 
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/prafullpandeybr)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/_whoisprafullpandey/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/prafull-kumar-pandey-670a91204/)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:aryanitinpatil@gmail.com)
 <p><img src="https://github-profile-trophy.vercel.app/?username=prafullpandey614&row=1&margin-w=15&margin-h=15&theme=darkhub" alt="Aryan" /></p>
 <hr>
 
@@ -28,3 +31,4 @@ You can click the Preview link to take a look at your changes.
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prafullpandey614&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Prafull's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafullpandey614&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+- ![Profile views](https://gpvc.arturio.dev/prafullpandey614)
