@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 [![linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RYeN56EvozwyyxYGDw4dTu-pbUZyNxnF93zSLUcOlQ&s)](https://www.linkedin.com/in/prafull-kumar-pandey-670a91204/)
 [![Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sbjg5IFhXNswHd6qC09z3pAMDZmFhDXhoCDqv9FdiQ&s)](https://www.instagram.com/prafullpandey500/)
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=AryanP45&row=1&margin-w=15&margin-h=15&theme=darkhub" alt="Aryan" /></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=prafullpandey614&row=1&margin-w=15&margin-h=15&theme=darkhub" alt="Aryan" /></p>
 <hr>
 
 ### 📊 Github Stats
