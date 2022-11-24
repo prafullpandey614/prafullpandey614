@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - My Portfolio https://prafullpandey614.github.io/prafullpandey/#social-media
 - 👀 I’m interested in Web Development and Competitve Programming 
 - 🌱 I’m currently Pursuing Btech From Bundelkhand University
-- 💞️ I’m looking to collaborate on Projects React.js 
+- 💞️ I’m looking to collaborate on Projects React.js and Django Rest Framework 
 - 📫 contact me : prafullpandey2801@gmail.com
 
 <!-- [![twitter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-v8Lr08f7l2EPuwR9-9_-SaC20zKpbHhX2UbWAgN7Q&s)](https://twitter.com/prafullpandeybr)
