@@ -30,5 +30,5 @@ You can click the Preview link to take a look at your changes.
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prafullpandey614&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Prafull's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafullpandey614&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-<a href="https://github.com/sambhavgupta0705/github-readme-activity-graph"><img alt="Sambhav Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prafullpandey614&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sambhavgupta0705/github-readme-activity-graph"><img alt="Prafull's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prafullpandey614&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 - ![Profile views](https://gpvc.arturio.dev/prafullpandey614)
