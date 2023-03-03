@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # _Prafull Kumar Pandey_
 
 
-- 👋 Hi, I’m Prafull Kumar Pandey 
+- 👋 Hi, I’m Prafull Kumar Pandey, Backend Engineer Skilled in Django and Currently Exploring Server Side Engineering
 - My Portfolio https://prafullpandey614.github.io/prafullpandey/#social-media
 - 👀 I’m interested in Backend Engineering and Competitve Programming 
 - 🌱 I’m currently Pursuing Btech From Bundelkhand University
