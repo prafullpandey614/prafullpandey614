@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Prafull Kumar Pandey 
 - My Portfolio https://prafullpandey614.github.io/prafullpandey/#social-media
-- 👀 I’m interested in Web Development and Competitve Programming 
+- 👀 I’m interested in Backend Engineering and Competitve Programming 
 - 🌱 I’m currently Pursuing Btech From Bundelkhand University
 - 💞️ I’m looking to collaborate on Projects React.js and Django Rest Framework 
 - 📫 contact me : prafullpandey2801@gmail.com
