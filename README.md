@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hi, I’m Prafull Kumar Pandey, Backend Engineer Skilled in Django 
-- My Portfolio https://prafullpandey614.github.io/prafullpandey/#social-media
+- My Portfolio https://prafullpandey614.github.io/prafullpandey/
 - 👀 I’m interested in Backend Engineering and Competitve Programming 
 - 🌱 I’m currently Pursuing Btech From Bundelkhand University
 - 💞️ I’m looking to collaborate on Projects React.js and Django Rest Framework 
